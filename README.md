@@ -4,7 +4,7 @@ Overcome all the obstacles and reach the finish line in this 3D game that was ma
 ## 🛠️ Technical details
 * **Movement system** -> I used the Input system to create the movement for the player
 * **Collision system** -> when the player collides with an obstacle, it changes it's color to confirm the collision / to simulate the death (lose) of the player.
-* **Falling system** -> There are some balls as obstacles that fall at a rendom time.
+* **Falling system** -> There are some balls as obstacles that fall at a random time.
 
 ## 📷 Screenshots
 <img width="1917" height="898" alt="Screenshot 2026-04-27 204736" src="https://github.com/user-attachments/assets/cf38ecf3-e253-4fa4-b3ef-60d257f17923" />
