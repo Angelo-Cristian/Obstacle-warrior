@@ -1,4 +1,4 @@
-# Obstacle warrior
+# 🎮 Obstacle warrior
 Overcome all the obstacles and reach the finish line in this 3D game that was made with unity.
 <img width="1910" height="864" alt="Animation" src="https://github.com/user-attachments/assets/81c45585-bf98-4ad0-942f-c767945a8bf7" />
 
